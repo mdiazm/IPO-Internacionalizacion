@@ -1,0 +1,101 @@
+44
+ES
+Aceptar
+Idioma actual: ES
+Añadir libro
+Añada un libro
+Añadir un libro
+Autor
+Cancelar
+Cambiar idioma
+Cambie el idioma
+Cerrar
+Borrar libro
+Atención
+Borre un libro
+Borrar
+¿Está seguro de borrar el libro?
+Borrar un libro
+Editar
+Editar libro
+ISBN
+Edición especial
+Título
+Ventana de edición
+Edite un libro
+Error fatal
+Ya existe un libro con ese ISBN o algún campo está vacío.
+Ventana de error
+Exportar
+Exportar fichero
+Exportar un fichero
+Archivo
+Consultar libros
+Preferencias
+Importar
+Importar un fichero
+Idioma seleccionado: ES
+Ventana principal
+Consulta tus libros
+Registrar
+Comenzar
+Biblioteca personal
+Gestione su propia biblioteca                   
+Ed. especial
+Abrir
+Número de libros en la base de datos: 
+EN
+Accept
+Current language: EN
+Add book
+Add a book
+Add a book
+Author
+Cancel
+Change language
+Change app language
+Close
+Erase book
+Pay attention
+Erase a book
+Erase
+¿Are you sure about erasing the book?
+Erase a book
+Edit
+Edit book
+ISBN
+Special edition
+Title
+Edition window
+Edit a book
+Fatal error
+Some book with the same ISBN longer exists or some textarea is empty.
+Error window
+Export
+Export file
+Export a file
+File
+Consult books
+Settings
+Import
+Import a file
+Selected language: EN
+Main window
+Consult your books
+Register
+Start
+Personal library
+Manage your own library                   
+Special ed.
+Open
+Number of books in the database: 
+ES
+img/book.png
+img/bandera.png
+img/error.png
+img/attention.png
+EN
+img/book.png
+img/flag.png
+img/error.png
+img/attention.png

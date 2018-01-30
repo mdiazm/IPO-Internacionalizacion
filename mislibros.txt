@@ -1,0 +1,8 @@
+11016;Angel Pitou;Alexandre Dumas;false
+26010;Cecilia de Marsilly;Alexandre Dumas;true
+29370;Crímenes Célebres (2ª ed.);Alexandre Dumas;true
+17390;Aventuras del profesor Challenger;Arthur Conan Doyle;true
+3531;El archivo de Sherlock Holmes;Arthur Conan Doyle;false
+12105;Patente de corso, 2012;Arturo Pérez-Reverte;false
+27336;No apagues la luz;Bernard Minier;true
+29108;Fundamentos de filosofía;Bertrand Russell;true
